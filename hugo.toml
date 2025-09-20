@@ -1,10 +1,14 @@
+baseURL = 'https://ruangallio.com'
+languageCode = 'en-us'
+title = 'Ruan Gallio'
+theme = 'LoveIt'
+
 [module]
   [module.hugoVersion]
     min = "0.128.0"
 
 
 # Menu config
-# 菜单配置
 [menu]
   [[menu.main]]
     weight = 1
