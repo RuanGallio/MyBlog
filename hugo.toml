@@ -7,6 +7,10 @@ theme = 'LoveIt'
   [module.hugoVersion]
     min = "0.128.0"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 # Menu config
 [menu]
@@ -349,7 +353,7 @@ theme = 'LoveIt'
       fullscreen = true
     # Social share links in post page
     [params.page.share]
-      enable = true
+      enable = false
       X = true
       Threads = false
       Facebook = true

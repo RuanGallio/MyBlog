@@ -1,0 +1,20 @@
+{{- $rating := .Get 0 | int -}}
+{{- $total := .Get 1 | default 7 | int -}}
+{{- $text := .Get 2 -}}
+
+<div class="rating">
+  <div class="stars">
+    {{- range $i := seq $total -}}
+      {{- if le $i $rating -}}
+        <span class="star filled">★</span>
+      {{- else -}}
+        <span class="star">★</span>
+      {{- end -}}
+    {{- end -}}
+  </div>
+  {{- if $text -}}
+    <span class="rating-text">{{ $rating }}/{{ $total }} - {{ $text }}</span>
+  {{- else -}}
+    <span class="rating-text">{{ $rating }}/{{ $total }} estrelas</span>
+  {{- end -}}
+</div>
