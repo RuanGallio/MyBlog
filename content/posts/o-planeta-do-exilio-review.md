@@ -4,7 +4,7 @@ draft = false
 title = 'Review: O Planeta do Exílio, de Ursula K. Le Guin'
 +++
 
-## "Todos os homens são alienígenas uns para os outros, às vezes, não apenas os alienígenas"
+# "Todos os homens são alienígenas uns para os outros, às vezes, não apenas os alienígenas"
 
 Planeta do exílio é um dos primeiros romances escritos para o Ciclo de Hanin, da Le Guin e percebe-se no decorrer da trama os temas que definiram suas grandes obras passadas nesse universo grande, alienígena, cruel e belo que ela criou.
 
