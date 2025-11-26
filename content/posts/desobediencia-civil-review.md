@@ -1,6 +1,6 @@
 +++
 date = '2025-11-25T21:03:59-03:00'
-draft = true
+draft = false
 title = 'Review: Desobediência Civil, de Henry David Thoreau'
 +++
 

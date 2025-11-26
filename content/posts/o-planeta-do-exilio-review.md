@@ -1,6 +1,6 @@
 +++
 date = '2025-11-25T21:04:26-03:00'
-draft = true
+draft = false
 title = 'Review: O Planeta do Exílio, de Ursula K. Le Guin'
 +++
 
